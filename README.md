@@ -1,18 +1,19 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mauladana+Habibie;Full+Stack+Developer+and+Penetration+Testing;Thanks+for+visiting+my+Github+account" alt="Typing SVG" /></h1>
 <h3 align="center">A passionate Full Stack Developer and Penetration Testing from Indonesia</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mauladanahabibie/count.svg?" alt="Visitor Counter" height="25" />
-</p>
-<p align="center">
 
-- 🌱 I’m currently learning **Laravel, Flutter, and React**  
+<img align="right"  src="https://profile-counter.glitch.me/mauladanahabibie/count.svg?" alt="Visitor Counter" height="20" />
+
+###
+
+<div align="left">
+  
+- 🌱 I’m currently learning **Laravel, Flutter, and React**
 - 💬 Ask me about **Tailwind, Flutter, Construct 2**  
 - 📫 How to reach me **mauladanahabibi@gmail.com**  
 - ⚡ Fun fact **I'm still in high school**
+</div>
 
-</p>
-
-
+###
 
 
 
