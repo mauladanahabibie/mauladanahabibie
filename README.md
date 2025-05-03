@@ -26,9 +26,7 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  </div>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,flutter,docker,tailwind,laravel,linkedin,postman,discord,vite,py,php,js&perline=6" />
-  </a>
 </p>
 
 
