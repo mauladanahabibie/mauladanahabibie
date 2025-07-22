@@ -3,7 +3,6 @@
 </h1>
 <h3 align="center">Dedicated Full Stack Developer and Cybersecurity Enthusiast based in Indonesia</h3>
 
-<img align="center" src="https://profile-counter.glitch.me/mauladanahabibie/count.svg?" alt="Visitor Counter" height="20" />
 <div align="left">
   <img src="image/oline.jpg" width="300" height="250" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
