@@ -9,11 +9,17 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ty77pqgb2xpv7lc4wzpph2d6y&unique=yes" alt="Spotify Recently Played" width="300" />
 </div>
 
+<div align="left">
+  <a href="https://mauladanahabibie.netlify.app">
+    <img src="https://img.shields.io/badge/mauladanahabibie.netlify.app-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f" alt="Portfolio" />
+  </a>
+</div>
+
 ### 
 
 <div align="left">
   
-- 🌱 I’m currently learning **Laravel, Flutter, and React**
+- 🌱 I’m currently learning **Laravel, Flutter, and Angular**
 - 💬 Ask me about **Tailwind, Flutter, Construct 2, Frontend and Backend**  
 - 📫 How to reach me **mauladanahabibi@gmail.com**  
 - ⚡ Fun fact **I'm still in high school**
