@@ -8,7 +8,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ty77pqgb2xpv7lc4wzpph2d6y&unique=yes" alt="Spotify Recently Played" width="300" />
 </div>
-
+</br>
 <div align="left">
   <a href="https://mauladanahabibie.netlify.app">
     <img src="https://img.shields.io/badge/mauladanahabibie.netlify.app-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f" alt="Portfolio" />
