@@ -11,7 +11,7 @@
 </br>
 <div align="left">
   <a href="https://mauladanahabibie.vercel.app">
-    <img src="https://img.shields.io/badge/mauladanahabibie.netlify.app-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/mauladanahabibie.vercel.app-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f" alt="Portfolio" />
   </a>
 </div>
 
