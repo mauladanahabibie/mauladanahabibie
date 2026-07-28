@@ -6,7 +6,7 @@
 <div align="left">
   <img src="image/oline.jpg" width="300" height="250" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ty77pqgb2xpv7lc4wzpph2d6y&unique=yes" alt="Spotify Recently Played" width="300" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315ty77pqgb2xpv7lc4wzpph2d6y" alt="Spotify Recently Played" width="300" />
 </div>
 </br>
 <div align="left">
